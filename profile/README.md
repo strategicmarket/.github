@@ -2,11 +2,11 @@
 
 ## Get Involved
 
-Right now, our teams are helping companies worldwide modernize there sustems to compete more effectively in global markets. Software engineering is a challenge, which is why Altitude80 has adopted some of the most advanced technologies to leverage AI in the development and delivery processes.
+Right now, our teams are helping companies worldwide modernize their sustems to compete more effectively in global markets. Software engineering is a challenge, which is why Altitude80 retains top talent and adopts advanced AI technologies to accelerate modernization results.
 
 * [Explore featured projects](https://example.com)
 * [Explore jobs at Altitude80](https://example.com)
-* [Join the waitlist for early access to Modernization Workbench](https://altitude80.vercel.app/)
+* [Join the waitlist for early access to the Modernization Workbench](https://altitude80.vercel.app/)
 
 Visit [altitude80.com](https://altitude80.com) to learn more!
 
