@@ -6,7 +6,7 @@ Right now, our teams are helping companies worldwide modernize there sustems to 
 
 * [Explore featured projects](https://example.com)
 * [Explore jobs at Altitude80](https://example.com)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+* [Join the waitlist for early access to Modernization Workbench](https://altitude80.vercel.app/)
 
 Visit [altitude80.com](https://altitude80.com) to learn more!
 
