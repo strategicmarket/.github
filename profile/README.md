@@ -2,15 +2,15 @@
 
 ## A Strategic Machine For Every Strategic Market
 
-Right now, our teams are helping companies worldwide modernize their sustems to compete more effectively in global markets. Software engineering is a challenge, which is why Altitude80 retains top talent and adopts advanced AI technologies to accelerate modernization results.
+We help companies worldwide adopt AI Apps. GenAI has created astonishing opportunities for innovation across enterprise processes. But it has also created new risks, and new requirements for control, safety, precision and integrity. We build digital machines which help companies test, monitor and report on the operation of their AI Apps, whether in development of production. This is a necessary step in organization adoption, and a critical step before deploying AI for 'customer touch points'. We recognize requirements differ vastly by market, and our machines adopt accordingly.
 
 * [Explore featured projects](https://example.com)
 * [Explore jobs at Strategic Machines](https://example.com)
 * [Join the waitlist for early access to the AI Testing Workbench](https://strategicmachines.ai)
-* [Find the latest news](https://blog.strategicmachines.ai)
+* [Find the latest points of view:](https://blog.strategicmachines.ai)
 
 Visit [strategicmachines.ai](https://strategicmachines.ai) to learn more!
 
 ----
 
-Strategic Machines projects adopt the [Open Source Code of Conduct](Code_OF_CONDUCT.md). 
+Strategic Machines projects adopt the [Open Source Code of Conduct](../Code_OF_CONDUCT.md). 
