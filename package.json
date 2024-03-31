@@ -1,0 +1,11 @@
+{
+  "name": "masterrepo",
+  "version": "1.0.0",
+  "description": "Repo Defaults",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Strategic Machines",
+  "license": "MIT"
+}
