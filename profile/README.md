@@ -13,4 +13,4 @@ Visit [strategicmachines.ai](https://strategicmachines.ai) to learn more!
 
 ----
 
-Strategic Machines projects adopt the [Open Source Code of Conduct](https://github.com/strategicmarket/open-source-template/CODE_OF_CONDUCT.md). 
+Strategic Machines projects adopt the [Open Source Code of Conduct](https://github.com/strategicmarket/open-source-template/blob/main/CODE_OF_CONDUCT.md). 
